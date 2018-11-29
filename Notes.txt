@@ -1,0 +1,12 @@
+Projeto - GERAL
+	- Fazer o personagem (cotorno)	
+	- Fazer a união do personagem com o mapa (programando)	
+	- Fazer a divisão para informações, resultados e opções do jogo
+	- Pegar e aplicar as regras e o funcionamento
+	
+Projeto - MAP & DICE 
+	- Fazer a rolagem aleatória do dado.
+	- Ajustar tamanho do mapa
+
+Projeto - PJ & CAM
+	- Corrigir erros e ajustar os detalhes
